@@ -1,0 +1,14 @@
+{
+  "name": "prettytext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "6.2.0"
+  }
+}
